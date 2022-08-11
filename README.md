@@ -13,3 +13,7 @@ Baby Emotion Detection
 => we have the file model.h5
 
 3- Deploy to the server (using Flask+front End web). 
+
+This is a result sample! 
+
+![1234](https://user-images.githubusercontent.com/17311640/184071580-7a15f258-a1b6-4cab-9972-c209fbc764a3.jpg)
