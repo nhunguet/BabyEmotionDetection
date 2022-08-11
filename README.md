@@ -1,6 +1,6 @@
-# BabyEmotionDetection
+# Sever for Baby Emotion Detection Using Flask
 Baby Emotion Detection
-#The Problem: Using AI to determine children's Emotions, 
+#The Problem: Using AI to determine children's Emotions, deploy on web by using Flask 
 
 
 
@@ -10,4 +10,6 @@ Baby Emotion Detection
 
 2- Train model AI (I use CNN), save the model which we was trained. 
 
-3- Deploy to the server (using Flask+front End web).
+=> we have the file model.h5
+
+3- Deploy to the server (using Flask+front End web). 
