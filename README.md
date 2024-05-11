@@ -1,16 +1,16 @@
-# Sever for Baby Emotion Detection Using Flask
+# Sever for Baby Emotion Detection Using Flask (Just project for fun ) 
 Baby Emotion Detection
-#The Problem: Using AI to determine children's Emotions, deploy on web by using Flask 
+#The Problem: Using AI to determine children's Emotions, deploy on the web by using Flask 
 
 
 
-#I following the steps:
+#I observed the steps:
 
-1- Data collection (~300 images for the Happy, sad, angry baby), you can improve by collect more data from other source
+1- Data collection (~300 images for the Happy, sad, angry baby), you can improve by collecting more data from another source
 
-2- Train model AI (I use CNN), save the model which we was trained. 
+2- Train model AI (I use CNN), and save the model which we were trained. 
 
-=> we have the file model.h5
+=> We have the file model.h5
 
 3- Deploy to the server (using Flask+front End web). 
 
